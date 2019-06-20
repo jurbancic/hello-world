@@ -1,3 +1,3 @@
 # hello-world
-testni repozitorij
+testni repozitorij: 
 dodano tole besdilo za prikaz spremembe
